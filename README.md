@@ -8,6 +8,9 @@
 This is code repository for color-flipper app which i made using HTML CSS and Javascript. 
 Just click the above link so live working of project which i deployed on Netlify.
 
-To run in your local just clone the project and import in VS code and right click on HTML and open with live server. 
+To run in your local just clone the project and import in VS code and right click on HTML and open with live server or Just click the HTML file.
+It will open in browser. 
+
 Volla !! you have live project of mine working on you pc.
+
 Feel free to reach me adityaparkerr@gmail.com
