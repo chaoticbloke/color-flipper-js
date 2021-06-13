@@ -2,7 +2,7 @@
 
 ### [Live Site](https://flip-background-color.netlify.app)
 
-![Screenshot](https://ibb.co/JHzXBhk)
+<a href="https://ibb.co/JHzXBhk"><img src="https://i.ibb.co/m4HQDxz/color-flipper.png" alt="color-flipper" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>30 mb image file</a><br />
 
 ## Introduction
 This is code repository for color-flipper app which i made using HTML CSS and Javascript. 
