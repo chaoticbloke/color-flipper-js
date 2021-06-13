@@ -2,7 +2,7 @@
 
 ### [Live Site](https://flip-background-color.netlify.app)
 
-![Screenshot](https://st.depositphotos.com/1428083/2946/i/950/depositphotos_29460297-stock-photo-bird-cage.jpg)
+![Screenshot](https://ibb.co/JHzXBhk)
 
 ## Introduction
 This is code repository for color-flipper app which i made using HTML CSS and Javascript. 
